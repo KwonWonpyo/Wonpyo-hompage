@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/KwonWonpyo/Wonpyo-hompage/static/css/main.12955ccb.css",
+    "main.js": "/KwonWonpyo/Wonpyo-hompage/static/js/main.b5985abf.js",
+    "static/js/851.dc64f3b3.chunk.js": "/KwonWonpyo/Wonpyo-hompage/static/js/851.dc64f3b3.chunk.js",
+    "static/js/562.f750e967.chunk.js": "/KwonWonpyo/Wonpyo-hompage/static/js/562.f750e967.chunk.js",
+    "static/js/478.77b193e4.chunk.js": "/KwonWonpyo/Wonpyo-hompage/static/js/478.77b193e4.chunk.js",
+    "static/js/922.11b96fd5.chunk.js": "/KwonWonpyo/Wonpyo-hompage/static/js/922.11b96fd5.chunk.js",
+    "static/js/161.b50ad233.chunk.js": "/KwonWonpyo/Wonpyo-hompage/static/js/161.b50ad233.chunk.js",
+    "static/js/726.1e74f20c.chunk.js": "/KwonWonpyo/Wonpyo-hompage/static/js/726.1e74f20c.chunk.js",
+    "static/js/191.d542abfe.chunk.js": "/KwonWonpyo/Wonpyo-hompage/static/js/191.d542abfe.chunk.js",
+    "static/js/209.50500960.chunk.js": "/KwonWonpyo/Wonpyo-hompage/static/js/209.50500960.chunk.js",
+    "static/js/625.86e47ccb.chunk.js": "/KwonWonpyo/Wonpyo-hompage/static/js/625.86e47ccb.chunk.js",
+    "static/media/about.md": "/KwonWonpyo/Wonpyo-hompage/static/media/about.d0ac976a737a4587352e.md",
+    "index.html": "/KwonWonpyo/Wonpyo-hompage/index.html",
+    "main.12955ccb.css.map": "/KwonWonpyo/Wonpyo-hompage/static/css/main.12955ccb.css.map",
+    "main.b5985abf.js.map": "/KwonWonpyo/Wonpyo-hompage/static/js/main.b5985abf.js.map",
+    "851.dc64f3b3.chunk.js.map": "/KwonWonpyo/Wonpyo-hompage/static/js/851.dc64f3b3.chunk.js.map",
+    "562.f750e967.chunk.js.map": "/KwonWonpyo/Wonpyo-hompage/static/js/562.f750e967.chunk.js.map",
+    "478.77b193e4.chunk.js.map": "/KwonWonpyo/Wonpyo-hompage/static/js/478.77b193e4.chunk.js.map",
+    "922.11b96fd5.chunk.js.map": "/KwonWonpyo/Wonpyo-hompage/static/js/922.11b96fd5.chunk.js.map",
+    "161.b50ad233.chunk.js.map": "/KwonWonpyo/Wonpyo-hompage/static/js/161.b50ad233.chunk.js.map",
+    "726.1e74f20c.chunk.js.map": "/KwonWonpyo/Wonpyo-hompage/static/js/726.1e74f20c.chunk.js.map",
+    "191.d542abfe.chunk.js.map": "/KwonWonpyo/Wonpyo-hompage/static/js/191.d542abfe.chunk.js.map",
+    "209.50500960.chunk.js.map": "/KwonWonpyo/Wonpyo-hompage/static/js/209.50500960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12955ccb.css",
+    "static/js/main.b5985abf.js"
+  ]
+}
