@@ -2,45 +2,45 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
-import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
-import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
+// import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
+// import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
 const data = [
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/KwonWonpyo',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/md',
+    link: 'https://www.facebook.com/commi1106',
     label: 'Facebook',
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
+    link: 'https://www.instagram.com/kwon1pyo/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
-    label: 'LinkedIn',
+    link: 'https://ieeexplore.ieee.org/author/37086864907',
+    label: 'IEEE Xplore',
     icon: faLinkedinIn,
   },
+  // {
+  //   link: 'https://angel.co/michael-d-angelo',
+  //   label: 'Angel List',
+  //   icon: faAngellist,
+  // },
+  // {
+  //   link: 'https://twitter.com/dangelosaurus',
+  //   label: 'Twitter',
+  //   icon: faTwitter,
+  // },
   {
-    link: 'https://angel.co/michael-d-angelo',
-    label: 'Angel List',
-    icon: faAngellist,
-  },
-  {
-    link: 'https://twitter.com/dangelosaurus',
-    label: 'Twitter',
-    icon: faTwitter,
-  },
-  {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:commi1106@naver.com',
     label: 'Email',
     icon: faEnvelope,
   },

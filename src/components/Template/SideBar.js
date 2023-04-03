@@ -12,32 +12,27 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>권원표</h2>
+        <p><a href="mailto:commi1106@naver.com">commi1106@naver.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>안녕하세요. 만들기를 좋아하는 권원표입니다. 저는 <a href="http://mad.postech.ac.kr/">POSTECH MADs Lab</a>에서 석사 과정을 마치고
+        현재는 오피스 솔루션 전문기업 <a href="https://www.tmax.co.kr/tmaxoffice/">TmaxOffice</a>에서 전문연구요원으로 군복무 중입니다.
+        TmaxOffice에서는 웹 프론트엔드 개발 및 C++ 레이아웃 엔진 개발로 제품 개발에 참여하고 있습니다.
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {window.location.pathname.includes('/resume') ? <Link to="/about" className="button">자기소개 보기</Link> : <Link to="/resume" className="button">이력서 보기</Link>}
         </li>
       </ul>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Wonpyo Kwon <Link to="/">kwonwonpyo.com</Link>.</p>
     </section>
   </section>
 );
