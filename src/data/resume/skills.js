@@ -44,7 +44,7 @@ const skills = [
   },
   {
     title: 'Antenna Array',
-    competency: 4,
+    competency: 5,
     category: ['Antenna Engineering', 'Measurement'],
   },
   {
@@ -54,7 +54,7 @@ const skills = [
   },
   {
     title: 'Ansys HFSS',
-    competency: 4,
+    competency: 5,
     category: ['Antenna Engineering', 'Measurement'],
   },
   {
@@ -64,6 +64,11 @@ const skills = [
   },
   {
     title: 'Unreal Engine',
+    competency: 1,
+    category: ['Game Programming'],
+  },
+  {
+    title: 'Unity 3D',
     competency: 1,
     category: ['Game Programming'],
   },

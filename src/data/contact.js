@@ -2,6 +2,8 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
+// eslint-disable-next-line import/no-extraneous-dependencies
+import { faGraduationCap } from '@fortawesome/free-solid-svg-icons/faGraduationCap';
 // import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
 // import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
@@ -25,9 +27,14 @@ const data = [
     icon: faInstagram,
   },
   {
+    link: 'https://www.linkedin.com/in/wonpyo-kwon-40b18b265/',
+    label: 'LinkedIn',
+    icon: faLinkedinIn,
+  },
+  {
     link: 'https://ieeexplore.ieee.org/author/37086864907',
     label: 'IEEE Xplore',
-    icon: faLinkedinIn,
+    icon: faGraduationCap,
   },
   // {
   //   link: 'https://angel.co/michael-d-angelo',
