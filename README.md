@@ -1,6 +1,6 @@
-# KwonWonpyo Personal Website
+# [권원표 개인 홈페이지 링크](https://kwonwonpyo.github.io/Wonpyo-hompage).
 
-See: [kwonwonpyo.github.io/Wonpyo-hompage](https://kwonwonpyo.github.io/Wonpyo-hompage).
+# KwonWonpyo Personal Website
 
 This repository was forked from [mldangelo/personal-site](https://github.com/mldangelo/personal-site)
 
