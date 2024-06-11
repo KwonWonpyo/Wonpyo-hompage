@@ -11,10 +11,10 @@ const Index = () => (
       <header>
         <div className="title">
           <h2><Link to="/">About this site</Link></h2>
-          <p> 제 홈페이지에 오신 여러분을 환영합니다. </p>
+          <p> 제 홈페이지에 방문해주셔서 감사합니다. </p>
         </div>
       </header>
-      <p>이 홈페이지는 저를 소개하기 위해 React를 활용해 만들었으며 저를 알고 싶다면 <Link to="/about">자기 소개</Link>를 확인해주세요. </p>
+      <p>React를 활용해 만든 권원표의 개인 홈페이지입니다. 저를 알고 싶다면 <Link to="/about">자기 소개</Link>를 확인해주세요. </p>
       <p>
         또는 {' '}
         <Link to="/resume">이력서</Link>, {' '}

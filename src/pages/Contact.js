@@ -2,13 +2,13 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
-// import EmailLink from '../components/Contact/EmailLink';
+import EmailLink from '../components/Contact/EmailLink';
 import ContactIcons from '../components/Contact/ContactIcons';
 
 const Contact = () => (
   <Main
     title="Contact"
-    description="Contact Michael D'Angelo via email @ michael.l.dangelo@gmail.com"
+    description="권원표 연락처"
   >
     <article className="post" id="contact">
       <header>
@@ -17,8 +17,7 @@ const Contact = () => (
         </div>
       </header>
       <div className="email-at">
-        <p>전문연구요원 복무중이지만 좋은 포지션을 제안해주셔서 언제나 감사합니다</p>
-        {/* <EmailLink /> */}
+        <EmailLink loopMessage />
       </div>
       <ContactIcons />
     </article>
