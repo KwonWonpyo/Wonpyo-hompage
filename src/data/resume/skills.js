@@ -38,11 +38,6 @@ const skills = [
     category: ['Office'],
   },
   {
-    title: 'Tmax SuperOffice',
-    competency: 5,
-    category: ['Office'],
-  },
-  {
     title: 'Antenna Array',
     competency: 5,
     category: ['Antenna Engineering', 'Measurement'],
@@ -89,8 +84,18 @@ const skills = [
   },
   {
     title: 'MATLAB',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
+  },
+  {
+    title: 'MobX',
+    competency: 3,
+    category: ['Web Development'],
+  },
+  {
+    title: 'Jest',
+    competency: 3,
+    category: ['Web Development'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

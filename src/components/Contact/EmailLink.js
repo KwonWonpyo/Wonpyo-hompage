@@ -10,13 +10,10 @@ import PropTypes from 'prop-types';
 // };
 
 const messages = [
-  '안녕하세요',
-  '새로운 일은 언제나 환영합니다',
-  '안테나 공학과 관련된 일도 가능합니다',
-  '좋은 포지션을 제안해주셔서 감사합니다',
-  'Hi',
-  'Thanks for visiting me',
-  'please feel free to contact me',
+  '제 홈페이지에 방문해주셔서 감사합니다. 이 사이트가 마음에 드셨으면 좋겠습니다.',
+  '새로운 일은 언제나 환영입니다. 게임 개발, 안테나 개발, 클라이언트 개발 등 다양한 직무에 도전해보고 싶습니다.',
+  'Thanks for visiting me. I hope you liked my website.',
+  'I am Looking for a new job. Please feel free to contact me.',
 ];
 
 const useInterval = (callback, delay) => {

@@ -27,21 +27,21 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 4,
+    value: 5,
     link:
       'https://www.google.com/maps/d/edit?mid=1iM1YOnTvF8bCozuFfNglDUeruBhy3j0&usp=sharing',
   },
   {
     key: 'cities',
     label: 'Cities visited',
-    value: 31,
+    value: 38,
     link:
       'https://www.google.com/maps/d/edit?mid=1iM1YOnTvF8bCozuFfNglDUeruBhy3j0&usp=sharing',
   },
   {
     key: 'location',
     label: 'Current city',
-    value: 'Seongnam-si, Gyeonggi-do, South Korea',
+    value: 'Yongin-si, Gyeonggi-do, South Korea',
   },
 ];
 

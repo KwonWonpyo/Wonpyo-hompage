@@ -13,6 +13,7 @@ const Education = ({ data }) => (
       <Degree
         data={degree}
         key={degree.school}
+        lab={degree.lab}
       />
     ))}
   </div>

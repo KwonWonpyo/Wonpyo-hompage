@@ -19,8 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>저는 4년차 웹 프론트엔드 프로그래머입니다.
-        현재는 오피스 솔루션 전문기업 <a href="https://www.tmax.co.kr/tmaxoffice/">TmaxGaia</a>의 연구본부에서 그래픽 관련 레이아웃 및 마우스 이벤트 제어 등을 담당하고 있습니다.
+      <p>
+        4년차 웹 프론트엔드 프로그래머입니다. <br />
+        흔한 웹페이지보다는 웹앱이나 클라이언트 앱 개발, 수학적인 로직이 필요한 직무에 익숙합니다. 최근 4년간 근무하던 회사에서 퇴사하여 적극 구인중입니다.
       </p>
       <ul className="actions">
         <li>

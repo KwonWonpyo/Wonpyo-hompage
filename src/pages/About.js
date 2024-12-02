@@ -25,7 +25,7 @@ const About = () => {
         <header>
           <div className="title">
             <h2><Link to="/about">About Me</Link></h2>
-            <p>저를 간단하게 소개합니다.</p>
+            <p>조금 개인적인 이야기로 저를 소개합니다.</p>
           </div>
         </header>
         <Markdown>
