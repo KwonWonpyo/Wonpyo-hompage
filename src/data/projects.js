@@ -34,6 +34,17 @@ const data = [
   //     + 'You can email me for a copy.',
   // },
   {
+    title: 'RPS Chess',
+    subtitle: 'A simple web game built with React.',
+    link: 'https://kwonwonpyo.github.io/rps-chess',
+    image: '/images/projects/RPS_Chess_ScreenShot.jpg',
+    date: '2024-12-19',
+    desc:
+      '게임 엔진이나 캔버스를 사용하지 않고 HTML, CSS, JavaScript로 만든 웹 게임입니다. '
+      + '간단한 보드게임에 심리 전략적인 요소를 추가했습니다. '
+      + 'AI와의 대결에서 승리해보세요.',
+  },
+  {
     title: '서비스 준비중입니다',
     subtitle: '',
     image: '/images/projects/demoScreenshot.jpg',
