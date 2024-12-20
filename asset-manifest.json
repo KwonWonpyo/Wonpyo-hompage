@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Wonpyo-hompage/static/css/main.28435a4f.css",
-    "main.js": "/Wonpyo-hompage/static/js/main.b134edc9.js",
+    "main.js": "/Wonpyo-hompage/static/js/main.6a31f560.js",
     "static/js/851.4fcee75e.chunk.js": "/Wonpyo-hompage/static/js/851.4fcee75e.chunk.js",
     "static/js/117.e6101979.chunk.js": "/Wonpyo-hompage/static/js/117.e6101979.chunk.js",
     "static/js/478.e2ef132a.chunk.js": "/Wonpyo-hompage/static/js/478.e2ef132a.chunk.js",
@@ -10,11 +10,11 @@
     "static/js/726.355bf0b4.chunk.js": "/Wonpyo-hompage/static/js/726.355bf0b4.chunk.js",
     "static/js/191.9d54d707.chunk.js": "/Wonpyo-hompage/static/js/191.9d54d707.chunk.js",
     "static/js/209.50500960.chunk.js": "/Wonpyo-hompage/static/js/209.50500960.chunk.js",
-    "static/js/625.e6a19b7f.chunk.js": "/Wonpyo-hompage/static/js/625.e6a19b7f.chunk.js",
-    "static/media/about.md": "/Wonpyo-hompage/static/media/about.99c4395c30c7a0872c30.md",
+    "static/js/625.e7527574.chunk.js": "/Wonpyo-hompage/static/js/625.e7527574.chunk.js",
+    "static/media/about.md": "/Wonpyo-hompage/static/media/about.c5924bf56beb1e71a50e.md",
     "index.html": "/Wonpyo-hompage/index.html",
     "main.28435a4f.css.map": "/Wonpyo-hompage/static/css/main.28435a4f.css.map",
-    "main.b134edc9.js.map": "/Wonpyo-hompage/static/js/main.b134edc9.js.map",
+    "main.6a31f560.js.map": "/Wonpyo-hompage/static/js/main.6a31f560.js.map",
     "851.4fcee75e.chunk.js.map": "/Wonpyo-hompage/static/js/851.4fcee75e.chunk.js.map",
     "117.e6101979.chunk.js.map": "/Wonpyo-hompage/static/js/117.e6101979.chunk.js.map",
     "478.e2ef132a.chunk.js.map": "/Wonpyo-hompage/static/js/478.e2ef132a.chunk.js.map",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.28435a4f.css",
-    "static/js/main.b134edc9.js"
+    "static/js/main.6a31f560.js"
   ]
 }
